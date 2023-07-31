@@ -36,7 +36,7 @@ export default function Project() {
             addingChannel={addingChannel}
           />
         </Song>
-        <Piano />
+        {/* <Piano /> */}
       </div>
     </div>
   );
